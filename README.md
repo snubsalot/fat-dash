@@ -1,4 +1,4 @@
-# fat-dash: dashboard for FPS Aim Trainer.
+# fat-dash - dashboard for FPS Aim Trainer.
 
 ## Compatibility
 - Just use an up-to-date browser. Tested with
