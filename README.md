@@ -9,14 +9,14 @@ Disclaimer: this is not from the official author.
 3. Crunch some numbers!
 
 ## Challenge History Widget
-- Grab the most recent challenges and compare measure to the corresponding Scenario average.
-- Challenges can be filtered by Date and Scenario (just click on the filter icon to the right "Challenge Date" or "Scenario")
+- Grab the most recent challenges and compare a measure (like Score) to Scenario average.
+- Challenges can be filtered by Date and Scenario - just click on the filter icon to the right "Challenge Date" or "Scenario"
 - Choose and switch between a measure to display for all challenges
 
 ## Time Line Widget
-- Get your progress on some measure like Score in a period of time.
+- See your progress on some measure over a period of time.
 - Filter by Scenario and measure by clicking somewhere on the widget header bar
-- See also Graph Controls
+- See Graph Controls
 
 ## Graph controls
 
