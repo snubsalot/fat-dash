@@ -1,18 +1,24 @@
-# fat-dash - dashboard for FPS Aim Trainer
-
 Disclaimer: this is not from the official author.
 
-## Usage
+# Usage
+
+## Upload some challenge files
 
 1. Click on the upload icon on the top left.
 2. Select all challenge files created from the game. E.g. `<Your steam lib folder>\steamapps\common\FPSAimTrainer\FPSAimTrainer\stats`
 3. Crunch some numbers!
 
-### Time Line Widget
-- Filter by Scenario and measure you want to analyze (e.g. Score) by clicking somewhere on the header bar
-- See Graph Controls for further usage 
+## Challenge History Widget
+- Grab the most recent challenges and compare measure to the corresponding Scenario average.
+- Challenges can be filtered by Date and Scenario (just click on the filter icon to the right "Challenge Date" or "Scenario")
+- Choose and switch between a measure to display for all challenges
 
-### Graph controls
+## Time Line Widget
+- Get your progress on some measure like Score in a period of time.
+- Filter by Scenario and measure by clicking somewhere on the widget header bar
+- See also Graph Controls
+
+## Graph controls
 
 1. Drag to zoom in and double-click to return to the original graph. Alternative: Zoom and Autoscale buttons at the top right of widget.
 2. Drag the corners of a graph to zoom along one axis.
@@ -20,8 +26,7 @@ Disclaimer: this is not from the official author.
 4. Hover over some points to get their x,y value
 5. hold <kbd>shift</kbd> + Left Mouse to move around in the graph. Alternative: pan button at the top right of widget
 
-
-## Compatibility
+# Compatibility
 - Just use an up-to-date browser. Tested with
   - Firefox 63 - should work with any decent version 55+ or even older
   - Chromium 73 - should work with any half decent Chrome version
