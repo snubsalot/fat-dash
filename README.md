@@ -1,5 +1,3 @@
-Disclaimer: this is not from the official author.
-
 # Usage
 
 ## Upload some challenge files
@@ -32,3 +30,6 @@ Disclaimer: this is not from the official author.
   - Chromium 73 - should work with any half decent Chrome version
   - Don't get your hands dirty with IE 😉. Also I am not sure concerning Safari browser.
 - Dashboard is tested with csv files starting at Game Version 1.0.2
+
+# Disclaimer
+This is a community project (not from the official author).
