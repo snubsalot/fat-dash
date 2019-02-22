@@ -1,5 +1,7 @@
 # fat-dash - dashboard for FPS Aim Trainer
 
+Disclaimer: this is not from the official author.
+
 ## Usage
 
 ### Time Line Widget
