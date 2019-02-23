@@ -9,13 +9,12 @@ Track your own progess in FPS Aim Trainer easily. Analyze your challenges, scena
 3. Crunch some numbers!
 
 ### Challenge History Widget
-See your most recent challenges and compare measures like Score with the Scenario average. Challenges can be filtered by Date and Scenario - just click on the filter icon to the right "Challenge Date" or "Scenario". Choose and switch between a measure to display for all challenges.
+See your most recent challenges and compare measures like score with the scenario average. Challenges can be filtered by date and scenario - just click on the filter icon to the right of the table header name. Choose and switch between a measure to display for all challenges.
 
 ### Time Line Widget
-Track your progress on some measure over a period of time. Filter by Scenario and measure by clicking somewhere on the widget header bar. See Graph Controls for further details on graph usage.
+Track your progress on some measure over a period of time. Filter by scenario and measure by clicking somewhere on the widget header bar. See Graph Controls for further details.
 
 ### Graph controls
-
 - Drag to zoom in and double-click to return to the original graph. Alternative: Zoom and Autoscale buttons at the top right of widget.
 - Drag the graph corners to zoom along one axis
 - Double-click x or y axis to autoscale on a single axis
@@ -28,8 +27,7 @@ Just use an up-to-date browser. Tested with
 - Chromium 73 - should work with any half decent Chrome version
 - Don't get your hands dirty with IE 😉. Also I am not sure concerning Safari browser.
 
-Concerning csv files, the dashboard is tested with csv files starting at Game Version 1.0.2.
-
+For csv files, the dashboard is tested with csv files starting at Game Version 1.0.2.
 
 ## Disclaimer
 This is a community project (not from the official author).
