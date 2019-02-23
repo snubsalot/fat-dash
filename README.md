@@ -6,7 +6,7 @@ Track your own progess in FPS Aim Trainer easily. Analyze your challenges, scena
 ### Upload some challenge files
 1. Click on the upload icon on the top left.
 2. Select all challenge files created from the game. E.g. `<Your steam lib folder>\steamapps\common\FPSAimTrainer\FPSAimTrainer\stats`
-3. Crunch some numbers!
+3. Crunch some numbers.
 
 ### Widgets
 
