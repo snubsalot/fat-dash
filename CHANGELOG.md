@@ -1,3 +1,6 @@
+## 0.3.1-alpha
+* Make loading icon animation smoother
+
 ## 0.3.0-alpha
 * Add Form status bar to Time Line Widget
 * Fix an error that prevents finishing the file upload if many files are selected
