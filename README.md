@@ -24,7 +24,7 @@ Track your progress on some measure over a period of time. Filter by scenario an
 - Hold <kbd>shift</kbd> + Left Mouse to move around in the graph. Alternatives: Drag an axis or press the pan-button at the top right of the graph 
 
 ## Optimizations
-Currently, imported csv files are not saved (yet) - after closing the tab, next time files are to be reimported. Simple solution: Keep the tab open, if you want to import more files. Most likely file import speed is limited by your disk performance. Saving all challenge files on a SSD partition can really benefit import time. Also, a reimporting files should happend much faster second time due to disk cache.
+Currently, imported csv files are not saved (yet) - after closing the tab, next time files are to be reimported. Simple solution: Keep the tab open, if you want to import more files. Most likely file import speed is limited by your disk performance. Saving all challenge files on a SSD partition can really benefit import time. Also, reimporting files should happend much faster second time due to disk cache.
 
 ## Compatibility
 Just use an up-to-date browser. Tested with
