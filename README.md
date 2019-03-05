@@ -29,12 +29,14 @@ Track your progress on some measure over a period of time. Filter by scenario an
 Currently, imported csv files are not saved (yet) - after closing the tab, next time files are to be reimported. Simple solution: Keep the tab open, if you want to import more files. Most likely file import speed is limited by your disk performance. Saving all challenge files on a SSD partition can really benefit import time. Also, reimporting files should happend much faster second time due to disk cache.
 
 ## Compatibility
+### Browser
 Just use an up-to-date browser. Tested with
 - Firefox 63 - should work with any decent version 55+ or even older
 - Chromium 73 - should work with any half decent Chrome version
 - Don't get your hands dirty with IE 😉. Also I am not sure concerning Safari browser.
 
-For csv files, the dashboard is tested with csv files starting at Game Version 1.0.2.
+### csv-files
+I tested the app with csv files starting at Game Version 1.0.2. Currently, only challenge csv files (not free-to-play sessions) are supported.
 
 ## Disclaimer
 This is a community project (not from the official author).
