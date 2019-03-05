@@ -35,8 +35,9 @@ Just use an up-to-date browser. Tested with
 - Chromium 73 - should work with any half decent Chrome version
 - Don't get your hands dirty with IE 😉. Also I am not sure concerning Safari browser.
 
-### csv-files
-I tested the app with csv files starting at Game Version 1.0.2. Currently, only challenge csv files (not free-to-play sessions) are supported.
+### csv-files support
+- starting at Game Version 1.0.2
+- only challenges (not tested with free-to-play sessions)
 
 ## Disclaimer
 This is a community project (not from the official author).
