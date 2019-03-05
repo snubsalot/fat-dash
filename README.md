@@ -1,6 +1,8 @@
 # fat-dash - dashboard for FPS Aim Trainer
 Track your own progess in FPS Aim Trainer easily. Analyze your challenges, scenarios and time periods by importing csv files which are created by the game for each challenge.
 
+![fat_dash_picture](https://user-images.githubusercontent.com/45684225/53822735-9b8b5e80-3f70-11e9-9109-4fcafcbbeb28.jpg)
+
 ## Usage
 
 ### Upload some challenge files
