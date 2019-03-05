@@ -1,3 +1,13 @@
+## 0.4.0-alpha
+- Add scenario highscore fields in Challenge History Widget
+  - Show scenario Average, min and max scenario measure with percent diff comparisons to challenge measure
+  - Add checkboxes to choose visibility of min, max and average scenario measures
+- Add scenarioName filter for Playcount and Oldest Highscores Widget
+- Ease up TimeLine Chart by removing aggregate form field value 
+- Return scenarioNames in select form sorted 
+- Add challenge markers to Time Line graph
+- UI improvements/Fixes
+
 ## 0.3.1-alpha
 * Make loading icon animation smoother
 
