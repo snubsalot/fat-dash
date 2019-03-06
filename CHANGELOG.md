@@ -1,3 +1,7 @@
+## 0.5.0-alpha-next
+- Add Date filter for Time Line Widget
+- Fix circurlar coordinates in Time Line chart, which sometimes occured
+
 ## 0.4.0-alpha
 - Add scenario highscore fields in Challenge History Widget
   - Show scenario Average, min and max scenario measure with percent diff comparisons to challenge measure
