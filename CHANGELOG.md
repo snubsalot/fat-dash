@@ -1,4 +1,6 @@
-## 0.5.0-alpha-next
+Test versions for the next release (with version number xxx-next) can be found here: https://fat-dash.github.io/next/
+
+## 0.5.0-alpha-next 
 - Add Date filter for Time Line Widget
 - Fix circurlar coordinates in Time Line chart, which sometimes occured
 
