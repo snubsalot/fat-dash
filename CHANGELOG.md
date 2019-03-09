@@ -2,6 +2,10 @@ Test versions for the next release (with version number xxx-next) can be found h
 
 ---
 
+## 0.6.0-alpha-next
+- Add Omit zero value scores csv Import Filter
+  - The filter is activated automatically, but can be disabled in upload menu
+
 ## 0.5.0-alpha (19-03-07)
 - Add Date filter for Time Line Widget
 - Fix circurlar coordinates in Time Line chart, which sometimes occured
