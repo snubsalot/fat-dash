@@ -2,7 +2,7 @@ Test versions for the next release (with version number xxx-next) can be found h
 
 ---
 
-### 0.6.1-alpha
+## 0.6.1-alpha
 - Fix unnoticed <kbd>o</kbd> key press in input fields. <kbd>o</kbd> was hidden by <kbd>Ctrl</kbd> +<kbd>o</kbd> hotkey to open the file dialog quickly.
 
 ## 0.6.0-alpha
