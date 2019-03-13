@@ -2,9 +2,15 @@ Test versions for the next release (with version number xxx-next) can be found h
 
 ---
 
-## 0.7.0-alpha-next
-- Add option to choose between Challenge Date and Challenge number for x-axis in Time Line
-- Add Kill Count as measure
+## 0.7.0-alpha
+- Add Kill count as measure
+- Time Line: 
+  - Add option to choose between Challenge Date and Challenge number for x-axis
+  - Per default challenge number for x-axis is selected (before it was challenge date) to display a uniform, even distribution
+- Fix measures for invincible scenarios
+  - Before, no values were shown for some measures like accuracy and efficiency
+  - Now, all measures are collected from the weapon and challenge statistics 
+- Change the measure names slightly in order to reflect their origin more accurately
 
 ## 0.6.1-alpha
 - Fix unnoticed <kbd>o</kbd> key press in input fields. <kbd>o</kbd> was hidden by <kbd>Ctrl</kbd> +<kbd>o</kbd> hotkey to open the file dialog quickly.
