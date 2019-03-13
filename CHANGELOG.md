@@ -2,7 +2,7 @@ Test versions for the next release (with version number xxx-next) can be found h
 
 ---
 
-## 0.7.0-alpha
+## 0.7.0-alpha (19-03-13)
 - Add kill count as measure
 - Time Line: 
   - Add option to choose between challenge date and challenge number for x-axis
