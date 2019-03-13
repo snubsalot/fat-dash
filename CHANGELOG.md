@@ -5,7 +5,7 @@ Test versions for the next release (with version number xxx-next) can be found h
 ## 0.7.0-alpha
 - Add kill count as measure
 - Time Line: 
-  - Add option to choose between Challenge Date and Challenge number for x-axis
+  - Add option to choose between challenge Date and challenge number for x-axis
   - Per default challenge number for x-axis is selected (before it was challenge date) to display a uniform, even distribution
 - Fix measures for invincible scenarios
   - Before, no values were shown for some measures like accuracy and efficiency
