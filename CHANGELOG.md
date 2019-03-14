@@ -1,7 +1,5 @@
 Test versions for the next release (with version number xxx-next) can be found here: https://fat-dash.github.io/next/
 
----
-
 ## For newer versions, see [releases pages](https://github.com/fat-dash/fat-dash/releases)
 
 ## 0.6.1-alpha
