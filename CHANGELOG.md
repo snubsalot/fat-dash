@@ -1,6 +1,6 @@
 Test versions for the next release (with version number xxx-next) can be found here: https://fat-dash.github.io/next/
 
-## For newer versions, see [releases pages](https://github.com/fat-dash/fat-dash/releases)
+## For newer releases, see [here](https://github.com/fat-dash/fat-dash/releases)
 
 ## 0.6.1-alpha
 - Fix unnoticed <kbd>o</kbd> key press in input fields. <kbd>o</kbd> was hidden by <kbd>Ctrl</kbd> +<kbd>o</kbd> hotkey to open the file dialog quickly.
