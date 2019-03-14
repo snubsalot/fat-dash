@@ -1,4 +1,4 @@
-Test versions for the next release (with version number xxx-next) can be found here: https://fat-dash.github.io/next/
+Test versions for the next release can be found here: https://fat-dash.github.io/next/
 
 ## For newer releases, see [here](https://github.com/fat-dash/fat-dash/releases)
 
