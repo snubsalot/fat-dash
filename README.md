@@ -38,12 +38,10 @@ If the scenario score win value is not reached (can only be changed by scenario 
 ![any_challenges](https://user-images.githubusercontent.com/45684225/54418487-5ea83000-4705-11e9-939e-93308da7d712.png)  
 Always csv files are emitted, even if the challenges are aborted. Aborted challenges have a zero value score. 
 
-To get rid of aborted challenges, **per default** all challenges with a zero value score are filtered out as its suitable in almost all situations.
+To get rid of aborted challenges, **per default** all challenges with a zero value score are filtered out as its suitable in almost all situations. If you want to change that, there is an upload option:
+![image](https://user-images.githubusercontent.com/45684225/54419629-3d950e80-4708-11e9-8dc4-89f021d84037.png)
 
 > Info: Aborted csv files (zero value score) do not contribute to the play count of a scenario per default.
-
-If you want to change that, there is an upload option:
-![image](https://user-images.githubusercontent.com/45684225/54419629-3d950e80-4708-11e9-8dc4-89f021d84037.png)
 
 ## Optimizations
 
