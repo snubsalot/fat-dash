@@ -33,7 +33,7 @@ Track your progress on some measure over a period of time. Filter by scenario an
 In the game under Game Options, you can set the Statistics Export mode. Recommended values are:  
 
 ![challenge_wins](https://user-images.githubusercontent.com/45684225/54418653-d24a3d00-4705-11e9-9d37-bed3ce418c9e.png)  
-If the scenario score win value is not reached (can only be changed by scenario editors), there will be no csv file emitted. There might be scenarios where a default win value of 1000 is kept, but such a score actually cannot be reached. Here is where "any challenges" becomes interesting.
+If the scenario score win value is not reached (can only be changed by scenario editors), there will be no csv file emitted. There might be scenarios where a default win value of 1000 is kept, but such a score actually cannot be reached. Here is where "Any challenge" becomes interesting.
 
 ![any_challenges](https://user-images.githubusercontent.com/45684225/54418487-5ea83000-4705-11e9-939e-93308da7d712.png)  
 Always csv files are emitted, even if the challenges are aborted. Aborted challenges have a zero value score. 
