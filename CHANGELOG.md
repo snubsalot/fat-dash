@@ -1,16 +1,6 @@
-Test versions for the next release (with version number xxx-next) can be found here: https://fat-dash.github.io/next/
+Test versions for the next release can be found here: https://fat-dash.github.io/next/
 
----
-
-## 0.7.0-alpha (19-03-13)
-- Add kill count as measure
-- Time Line: 
-  - Add option to choose between challenge date and challenge number for x-axis
-  - Per default challenge number for x-axis is selected (before it was challenge date) to display a uniform, even distribution
-- Fix measures for invincible scenarios
-  - Before, no values were shown for some measures like accuracy and efficiency
-  - Now, all measures are collected from the weapon and challenge statistics 
-- Change the measure names slightly in order to reflect their origin more accurately
+## For newer releases, see [here](https://github.com/fat-dash/fat-dash/releases)
 
 ## 0.6.1-alpha
 - Fix unnoticed <kbd>o</kbd> key press in input fields. <kbd>o</kbd> was hidden by <kbd>Ctrl</kbd> +<kbd>o</kbd> hotkey to open the file dialog quickly.
