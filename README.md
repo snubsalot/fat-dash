@@ -63,6 +63,11 @@ Just use an up-to-date browser. Tested with
 - starting at Game Version 1.0.2
 - only challenges (not tested with free-to-play sessions)
 
+
+## Links
+
+[Reddit](https://www.reddit.com/r/FPSAimTrainer/comments/axoicy/introduction_progress_tracker_dashboard_app_for/?utm_source=share&utm_medium=web2x)
+
 ## Disclaimer
 
 This is a community project (not from the official author).
