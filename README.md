@@ -2,7 +2,7 @@
 
 Track your own progess in FPS Aim Trainer. Analyze your challenges, scenarios and time periods by importing csv files which are created by the game for each challenge.
 
-![image](https://user-images.githubusercontent.com/45684225/54421396-a9797600-470c-11e9-8c73-2544c62273c9.png)
+![image](https://user-images.githubusercontent.com/45684225/55286990-75a47e80-53a3-11e9-82ff-bca02dba8cf3.png)
 
 ## Getting started
 
