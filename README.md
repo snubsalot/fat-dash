@@ -28,7 +28,7 @@ Track your progress on some measure over a period of time. Filter by scenario an
 - Hover over a graph point to get its coordinates
 - Hold <kbd>shift</kbd> + Left Mouse to move around in the graph. Alternatives: Drag an axis or press the pan-button at the top right of the graph
 
-## Scenario groups (BETA)
+## Scenario groups
 
 You can create your own scenario groups containing multiple freely chosen scenarios. These scenario groups provide  average-based progress tracking of all contained scenarios in one simple graph and can be selected like a plain scenario in the Time Line widget.
 
