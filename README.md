@@ -28,6 +28,37 @@ Track your progress on some measure over a period of time. Filter by scenario an
 - Hover over a graph point to get its coordinates
 - Hold <kbd>shift</kbd> + Left Mouse to move around in the graph. Alternatives: Drag an axis or press the pan-button at the top right of the graph
 
+## Scenario groups (BETA)
+
+You can create your own scenario groups containing multiple freely chosen scenarios. These scenario groups provide  average-based progress tracking of all contained scenarios in one simple graph and can be selected like a plain scenario in the Time Line widget.
+
+E.g. group up all scenarios from the beginner routine in the AIMER7 guide ([Link](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0)). Track, how well you have performed for all scenarios over time and let you gauge if your ready for for harder stuff.
+More examples: 
+- 1Wall target group
+- Reflex flick scenarios
+- tracking scenarios 
+- All (could take one more sec to finish :-P)
+- ...
+
+### Create group
+from Time Line Chart:   
+![create scenario group alt1](https://user-images.githubusercontent.com/45684225/56912399-79fdad80-6aaf-11e9-9122-cd9d53706a9a.png)
+
+Alternatively under settings:  
+![settings](https://user-images.githubusercontent.com/45684225/56912510-af0a0000-6aaf-11e9-94a5-e1ace560b19c.png)
+![create_group2](https://user-images.githubusercontent.com/45684225/56912528-b6310e00-6aaf-11e9-9dc3-2bf9177f6088.png)
+
+### Show graph for created group
+Simply select one of the groups in the Time Line chart scenario select.  
+![image](https://user-images.githubusercontent.com/45684225/56913216-5dfb0b80-6ab1-11e9-8f2a-0839edc052d9.png)
+
+### Import/Export scenario groups as file
+Under settings you can import or export scenario groups from/to a file to create a backup or share them.
+
+![import-export](https://user-images.githubusercontent.com/45684225/56913344-aca8a580-6ab1-11e9-941c-2fb1bddcedb4.png)
+
+> IMPORTANT - yeah, really - : All settings are stored in the browser, so you don't have to reimport them as you do with the csv files. However, if your browser session (cookies,etc.) is cleared up in some way, scenario groups may be deleted after tab/browser close  and are lost! Things that clear up are: "clear history" setting in browser, surfing in private mode, cleaner extensions, etc... . Make sure to not use above for the site "https://fat-dash.github.io". You also can go safe and just make a regular backup with these buttons.
+
 ## Upload settings
 
 In the game under Game Options, you can set the Statistics Export mode. Recommended values are:  
