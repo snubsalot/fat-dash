@@ -32,7 +32,7 @@ Track your progress on some measure over a period of time. Filter by scenario an
 
 You can create your own scenario groups containing multiple freely chosen scenarios. These scenario groups provide  average-based progress tracking of all contained scenarios in one simple graph and can be selected like a plain scenario in the Time Line widget.
 
-E.g. you could take all scenarios from the routines in the AIMER7 guide (Link). Track, how well you have performed for all scenarios over time and gauge if your ready for harder stuff. More example groups:
+E.g. you could take all scenarios from the routines in the AIMER7 guide [Link](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0). Track, how well you have performed for all scenarios over time and gauge if your ready for harder stuff. More example groups:
 
 - reflex flick scenarios
 - tracking scenarios
