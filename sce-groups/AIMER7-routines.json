@@ -1,0 +1,95 @@
+[
+  {
+    "id": "jve9ar28a51d6268",
+    "name": "AIMER7 - complete beginner - complete routine",
+    "scenarios": [
+      "1wall6targets TE",
+      "Close Long Strafes Invincible",
+      "fuglaaXYLongstrafes",
+      "Tile Frenzy - Strafing - 01",
+      "Vertical Long Strafes",
+      "1wall 1target"
+    ]
+  },
+  {
+    "id": "jvebd2pt2781a55f",
+    "name": "AIMER7 - advanced - complete routine",
+    "scenarios": [
+      "1wall5targets_pasu",
+      "Air",
+      "Close Fast Strafes Invincible",
+      "patTargetSwitch",
+      "POPCORN",
+      "1wall9000targets"
+    ]
+  },
+  {
+    "id": "jveb1bnxa679ff9a",
+    "name": "AIMER7 - intermediate - complete routine",
+    "scenarios": [
+      "1wall5targets_pasu",
+      "Air",
+      "Bounce 180",
+      "Bounce 180 Tracking",
+      "Cata IC Fast Strafes",
+      "Close Fast Strafes Invincible",
+      "fuglaaXYShortstrafes",
+      "Ground Plaza",
+      "Ground Plaza Easy",
+      "patTargetSwitch",
+      "Plaza High Ground Easy",
+      "RexStrafesCata",
+      "Target Acquisition Flick Easy",
+      "Tile Frenzy 180 Strafing 200 Percent Tracking",
+      "Vertical Fast Strafes",
+      "Vertical Hand Warmup",
+      "Vertical Long Strafes",
+      "Plaza Low Ground Easy"
+    ]
+  },
+  {
+    "id": "jve9y0n87dcca138",
+    "name": "AIMER7 - advanced beginners - complete routine",
+    "scenarios": [
+      "1wall 6targets small",
+      "1wall6targets TE",
+      "1wall9000targets",
+      "Close Long Strafes Invincible",
+      "fuglaaXYShortstrafes",
+      "Ground Plaza Easy",
+      "LG Pin Practice 360",
+      "RexStrafesCata",
+      "Tile Frenzy 180 Strafing",
+      "Vertical Long Strafes",
+      "1wall5targets_pasu"
+    ]
+  },
+  {
+    "id": "jveaewk9f25a41b3",
+    "name": "AIMER7 - sub intermediate - complete routine",
+    "scenarios": [
+      "1wall5targets_pasu",
+      "Bounce 180",
+      "Bounce 180 Tracking",
+      "Cata IC Fast Strafes",
+      "Close Fast Strafes Easy",
+      "fuglaaXYShortstrafes",
+      "Ground Plaza Easy",
+      "RexStrafesCata",
+      "Tile Frenzy 180 Strafing Tracking",
+      "Vertical Long Strafes"
+    ]
+  },
+  {
+    "id": "jve9ddkn715c85a8",
+    "name": "AIMER7 - intermediate beginner - complete routine",
+    "scenarios": [
+      "1wall 6targets small",
+      "1wall9000targets",
+      "Close Long Strafes Invincible",
+      "Thin Aiming Long Invincible",
+      "Vertical Long Strafes",
+      "Tile Frenzy 180"
+    ]
+  }
+]
