@@ -22,6 +22,7 @@ Track your progress on some measure over a period of time. Filter by scenario an
 
 ### Graph controls
 
+- Drag vertically/horizontally on the graph to get a slice of the graph.
 - Drag to zoom in and double-click to return to the original graph. Alternative: Zoom and Autoscale buttons at the top right of widget.
 - Drag the graph corners to zoom along one axis
 - Double-click x or y axis to autoscale on a single axis
