@@ -63,17 +63,12 @@ Under settings you can import or export scenario groups from/to a file to create
 
 ## Upload settings
 
-In the game under Game Options, you can set the Statistics Export mode. Recommended values are:  
-
-![challenge_wins](https://user-images.githubusercontent.com/45684225/54418653-d24a3d00-4705-11e9-9d37-bed3ce418c9e.png)  
-If the scenario score win value is not reached (can only be changed by scenario editors), there will be no csv file emitted. There might be scenarios where a default win value of 1000 is kept, but such a score actually cannot be reached. Here is where "Any challenge" becomes interesting.
-
-![any_challenges](https://user-images.githubusercontent.com/45684225/54418487-5ea83000-4705-11e9-939e-93308da7d712.png)  
-Always csv files are emitted, even if the challenges are aborted. Aborted challenges have a zero value score. 
+In the game under Game Options, you can set the Statistics Export mode. Recommended value: 
+![image](https://user-images.githubusercontent.com/45684225/58378813-956ab400-7f9a-11e9-94b7-cf2c71d08b41.png)
 
 To get rid of aborted challenges, **per default** all challenges with a zero value score are filtered out as its suitable in almost all situations. If you want to change that, there is an upload option:
 
-![image](https://user-images.githubusercontent.com/45684225/54419994-26a2ec00-4709-11e9-9538-16a172342201.png)
+![image](https://user-images.githubusercontent.com/45684225/58378788-28efb500-7f9a-11e9-9065-37977d109348.png)
 
 > Aborted csv files do not contribute to the play count of a scenario per default, as they are completely ignored.
 
